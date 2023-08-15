@@ -1,0 +1,1 @@
+To solve this flag just click the executable and answer the question correctly to get your flag.
